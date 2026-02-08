@@ -1,4 +1,3 @@
-
 import React, { Component } from "react";
 
 const mockApiUrl = "https://2303a51674.github.io/DevOps/abc.json"
